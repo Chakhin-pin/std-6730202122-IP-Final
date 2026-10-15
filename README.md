@@ -2,8 +2,6 @@
 
 ผู้จัดทำ: **Chakhin Pinyo — 6730202122**
 
-ใช้แนวทางเดียวกับ BOXBOX: Expo Router + React Native + React Context และ Express API แยก backend/frontend โทนสีแดงเหมือนโปรเจกต์เดิม ปรับตามคำขอให้เก็บข้อมูลพนักงานใน MySQL ตาราง `employees` ของฐานข้อมูล `ip_std6730202122` แทน array ในโจทย์เดิม
-
 ## โครงสร้าง
 
 ```text
